@@ -21,12 +21,6 @@ C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets\msbuild.TestingPlatform.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets\msbuild.TestingPlatform.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets\msbuild.build.TestingPlatform.props
-C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestingPlatform.props
-C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestingPlatform.props
-C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\TestingP.8ECA98BD.Up2Date
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\TestingPlatform.dll
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\refint\TestingPlatform.dll
@@ -160,3 +154,12 @@ C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\bin\Debug\net8.0\
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\bin\Debug\net8.0\TestingPlatform.Domain.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\bin\Debug\net8.0\TestingPlatform.Infrastructure.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\bin\Debug\net8.0\TestingPlatform.Infrastructure.pdb
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\bin\Debug\net8.0\TestingPlatform.Domain.pdb
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets.build.json.cache

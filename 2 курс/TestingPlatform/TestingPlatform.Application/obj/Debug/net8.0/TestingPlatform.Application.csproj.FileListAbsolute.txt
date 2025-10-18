@@ -1,0 +1,11 @@
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\bin\Debug\net8.0\TestingPlatform.Application.deps.json
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\bin\Debug\net8.0\TestingPlatform.Application.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\bin\Debug\net8.0\TestingPlatform.Application.pdb
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\obj\Debug\net8.0\TestingPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\obj\Debug\net8.0\TestingPlatform.Application.AssemblyInfoInputs.cache
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\obj\Debug\net8.0\TestingPlatform.Application.AssemblyInfo.cs
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\obj\Debug\net8.0\TestingPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\obj\Debug\net8.0\TestingPlatform.Application.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\obj\Debug\net8.0\refint\TestingPlatform.Application.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\obj\Debug\net8.0\TestingPlatform.Application.pdb
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Application\obj\Debug\net8.0\ref\TestingPlatform.Application.dll

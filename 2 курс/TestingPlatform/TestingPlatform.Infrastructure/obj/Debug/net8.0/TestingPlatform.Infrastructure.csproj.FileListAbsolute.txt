@@ -1,0 +1,17 @@
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.AssemblyInfo.cs
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Infrastructure.deps.json
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Infrastructure.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Infrastructure.pdb
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Domain.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Domain.pdb
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingP.870B73F8.Up2Date
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\refint\TestingPlatform.Infrastructure.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.pdb
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\ref\TestingPlatform.Infrastructure.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Infrastructure.runtimeconfig.json
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.genruntimeconfig.cache

@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using TestingPlatform.Data;
-using TestingPlatform;
+using TestingPlatform.Infrastructure;
 
 namespace TestingPlatform.Controllers;
 

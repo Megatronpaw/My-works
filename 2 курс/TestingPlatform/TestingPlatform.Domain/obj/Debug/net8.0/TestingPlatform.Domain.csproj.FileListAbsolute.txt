@@ -1,0 +1,11 @@
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.AssemblyInfo.cs
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\bin\Debug\net8.0\TestingPlatform.Domain.deps.json
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\bin\Debug\net8.0\TestingPlatform.Domain.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\bin\Debug\net8.0\TestingPlatform.Domain.pdb
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\obj\Debug\net8.0\refint\TestingPlatform.Domain.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.pdb
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\obj\Debug\net8.0\ref\TestingPlatform.Domain.dll
