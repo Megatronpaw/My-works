@@ -1,79 +1,96 @@
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using TestingPlatform.Infrastructure;
-
-namespace TestingPlatform.Controllers;
+using TestingPlatform.Requests.Student;
+using TestingPlatform.Responses.Student;
+using TestingPlatform.Application.Dtos;
+using TestingPlatform.Application.Interfaces;
+using TestingPlatform.Enums;
 
 [ApiController]
-[Route("api/[controller]")] // базовый маршрут: /api/students
-public class StudentsController : ControllerBase
+[Route("api/[controller]")]
+public class StudentsController(IStudentRepository studentRepository, IUserRepository userRepository, IMapper mapper) : ControllerBase
 {
-    private readonly AppDbContext _db;
-
-    public StudentsController(AppDbContext db)
-    {
-        _db = db;
-    }
-
+    /// <summary>
+    /// Получить список студентов
+    /// </summary>
+    /// <param name="groupIds">Идентификаторы групп</param>
+    /// <remarks>Если идентификаторы групп не указаны - придет полный список студентов</remarks>
+    /// <returns></returns>
     [HttpGet]
-    public IActionResult GetAllStudents()
+    public async Task<IActionResult> GetStudents()
     {
-        var students = _db.Students.ToList();
-        return Ok(students); // 200
+        var students = await studentRepository.GetAllAsync();
+
+        return Ok(mapper.Map<IEnumerable<StudentResponse>>(students));
     }
 
+    /// <summary>
+    /// Получить данные студента по Id
+    /// </summary>
+    /// <param name="id">Идентификатор студента</param>
+    /// <returns></returns>
     [HttpGet("{id:int}")]
-    public IActionResult GetStudentById(int id)
+    public async Task<IActionResult> GetStudentById(int id)
     {
-        if (id <= 0)
-            return BadRequest("Некорректный id"); // 400
+        var student = await studentRepository.GetByIdAsync(id);
 
-        var student = _db.Students.FirstOrDefault(s => s.Id == id);
-        if (student is null)
-            return NotFound(); // 404
-
-        return Ok(student); // 200
+        return Ok(mapper.Map<StudentResponse>(student));
     }
 
+    /// <summary>
+    /// Добавить студента
+    /// </summary>
+    /// <param name="student">Модель создания студента</param>
+    /// <returns></returns>
     [HttpPost]
-    public IActionResult CreateStudent([FromBody] Student student)
+    public async Task<IActionResult> CreateStudent([FromBody] CreateStudentRequest student)
     {
-        var emailExists = _db.Students.Where(s => s.User.Email == student.User.Email).ToList();
-        if (emailExists.Any())
-            return Conflict("Такой email уже используется"); // 409
+        var userDto = new UserDto()
+        {
+            Login = student.Login,
+            Password = student.Password,
+            Email = student.Email,
+            FirstName = student.FirstName,
+            MiddleName = student.MiddleName,
+            LastName = student.LastName,
+            Role = UserRole.Student
+        };
+        var userId = await userRepository.CreateAsync(userDto);
 
-        _db.Students.Add(student);
-        _db.SaveChanges();
+        var studentDto = new StudentDto()
+        {
+            UserId = userId,
+            Phone = student.Phone,
+            VkProfileLink = student.VkProfileLink
+        };
 
-        return Created();
+        var studentId = await studentRepository.CreateAsync(studentDto);
+
+        return StatusCode(StatusCodes.Status201Created, new { Id = studentId });
     }
 
-    [HttpPut("{id:int}")]
-    public IActionResult UpdateStudent([FromBody] Student student)
+    /// <summary>
+    /// Обновить данные о студенте
+    /// </summary>
+    /// <param name="student">Модель обновления данных о студенте</param>
+    /// <returns></returns>
+    [HttpPut]
+    public async Task<IActionResult> UpdateStudent([FromBody] UpdateStudentRequest student)
     {
-        var exists = _db.Students.FirstOrDefault(s => s.Id == student.Id);
-        if (exists == default)
-            return NotFound();
-
-        var emailInUse = _db.Students.Any(s => s.User.Email == student.User.Email && s.Id != student.Id);
-        if (emailInUse)
-            return Conflict("Такой email уже используется"); // 409
-
-        _db.Entry(student).State = EntityState.Modified;
-        _db.SaveChanges();
+        await studentRepository.UpdateAsync(mapper.Map<StudentDto>(student));
 
         return NoContent();
     }
 
+    /// <summary>
+    /// Удалить студента
+    /// </summary>
+    /// <param name="id">Идентификатор студента</param>
+    /// <returns></returns>
     [HttpDelete("{id:int}")]
-    public IActionResult DeleteStudent(int id)
+    public async Task<IActionResult> DeleteStudent(int id)
     {
-        var student = _db.Students.Find(id);
-        if (student is null)
-            return NotFound();
-
-        _db.Students.Remove(student);
-        _db.SaveChanges();
+        await studentRepository.DeleteAsync(id);
 
         return NoContent();
     }

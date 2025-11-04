@@ -7,6 +7,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddAutoMapper(cfg => cfg.AddMaps("TestingPlatform.Infrastructure"));
 
+builder.Services.AddScoped<IAnswerRepository, AnswerRepository>();
+
+builder.Services.AddAutoMapper(cfg => cfg.AddMaps("TestingPlatform"));
+builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+builder.Services.AddScoped<ITestRepository, TestRepository>();
+
 // Add services to the container.
 builder.Services.AddDbContext<AppDbContext>(options =>
    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));

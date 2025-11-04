@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "TestingPlatform.Application/1.0.0": {
+        "dependencies": {
+          "TestingPlatform.Domain": "1.0.0"
+        },
         "runtime": {
           "TestingPlatform.Application.dll": {}
+        }
+      },
+      "TestingPlatform.Domain/1.0.0": {
+        "runtime": {
+          "TestingPlatform.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "TestingPlatform.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestingPlatform.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

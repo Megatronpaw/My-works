@@ -3,144 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\mappings\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\mappings\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\repositories\\answerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\answerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\mappings\\directionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\mappings\\directionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\repositories\\userrepository - \u043A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\userrepository - \u043A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\mappings\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\mappings\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\mappings\\groupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\mappings\\groupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\repositories\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\testingplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\testingplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.application\\interface\\ianswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\interface\\ianswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.application\\dtos\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\dtos\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\mappings\\answerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\mappings\\answerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.application\\interface\\itestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\interface\\itestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.application\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.application\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.application\\dtos\\directiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\dtos\\directiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.application\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.application\\testingplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\testingplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\controllers\\testsconrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\testsconrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\testingplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\testingplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\testingplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\testingplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\user.role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\user.role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\userattemptanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\userattemptanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\usertextanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\usertextanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.domain\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A242A72-A1E9-4A81-8FBB-1076E03E2564}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.application\\dtos\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CAF5FE-CC37-44F3-8B9D-8F557A6540C9}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\dtos\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\controllers\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\controllers\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\controllers\\testsconrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\testsconrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\mappings\\answerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\mappings\\answerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform.infrastructure\\mappings\\testprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF36756B-2965-4AC5-8A33-7B87A7D79961}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\mappings\\testprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\mappings\\testprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\mappings\\testprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\requests\\test\\createtestrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\requests\\test\\createtestrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\requests\\test\\updatetestrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\requests\\test\\updatetestrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\requests\\answer\\createanswerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\requests\\answer\\createanswerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\responses\\test\\testresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\responses\\test\\testresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\responses\\answer\\answerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\responses\\answer\\answerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\testingplatform\\testingplatform\\requests\\answer\\updateanswerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9315DA84-E887-4EC0-8834-88836C8E798E}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\requests\\answer\\updateanswerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,466 +98,293 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProjectProfile.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\ProjectProfile.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Mappings\\ProjectProfile.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\ProjectProfile.cs",
-              "RelativeToolTip": "TestingPlatform.Infrastructure\\Mappings\\ProjectProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserRepository - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\UserRepository - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\UserRepository - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\UserRepository - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\UserRepository - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T10:01:09.227Z",
+              "WhenOpened": "2025-11-04T09:11:05.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DirectionProfile.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\DirectionProfile.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Mappings\\DirectionProfile.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\DirectionProfile.cs",
-              "RelativeToolTip": "TestingPlatform.Infrastructure\\Mappings\\DirectionProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T10:02:23.969Z",
+              "WhenOpened": "2025-11-04T09:10:59.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CourseProfile.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\CourseProfile.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Mappings\\CourseProfile.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\CourseProfile.cs",
-              "RelativeToolTip": "TestingPlatform.Infrastructure\\Mappings\\CourseProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T10:01:53.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GroupProfile.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\GroupProfile.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Mappings\\GroupProfile.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\GroupProfile.cs",
-              "RelativeToolTip": "TestingPlatform.Infrastructure\\Mappings\\GroupProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T10:00:57.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Project.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Project.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T09:58:06.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Program.cs",
-              "RelativeDocumentMoniker": "TestingPlatform\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Program.cs",
-              "RelativeToolTip": "TestingPlatform\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T10:36:32.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "GroupRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\GroupRepository.cs",
               "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\GroupRepository.cs",
               "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\GroupRepository.cs",
               "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\GroupRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:00:07.56Z",
+              "WhenOpened": "2025-11-04T09:10:57.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GroupsController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\GroupsController.cs",
-              "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\GroupsController.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\GroupsController.cs",
-              "RelativeToolTip": "TestingPlatform\\Controllers\\GroupsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAhwB4AAAAoAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ITestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Interface\\ITestRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Application\\Interface\\ITestRepository.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Interface\\ITestRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Application\\Interface\\ITestRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:02:55.19Z",
+              "WhenOpened": "2025-11-04T09:00:29.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Question.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Question.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\TestRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\TestRepository.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\TestRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\TestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T09:57:38.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Group.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Group.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Group.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T09:57:33.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CourseDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\CourseDto.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Application\\Dtos\\CourseDto.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\CourseDto.cs",
-              "RelativeToolTip": "TestingPlatform.Application\\Dtos\\CourseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T09:42:32.827Z",
+              "WhenOpened": "2025-11-04T08:59:56.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IGroupRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\IGroupRepository.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\IGroupRepository.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\IGroupRepository.cs",
-              "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\IGroupRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Title": "AnswerDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\AnswerDto.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Application\\Dtos\\AnswerDto.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\AnswerDto.cs",
+              "RelativeToolTip": "TestingPlatform.Application\\Dtos\\AnswerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T06:54:40.731Z",
+              "WhenOpened": "2025-11-04T08:58:39.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TestingPlatform.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
-              "RelativeToolTip": "TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T07:13:25.635Z",
+              "DocumentIndex": 10,
+              "Title": "TestDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\TestDto.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Application\\Dtos\\TestDto.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\TestDto.cs",
+              "RelativeToolTip": "TestingPlatform.Application\\Dtos\\TestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:47:16.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProjectDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\ProjectDto.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Application\\Dtos\\ProjectDto.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\ProjectDto.cs",
-              "RelativeToolTip": "TestingPlatform.Application\\Dtos\\ProjectDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Program.cs",
+              "RelativeToolTip": "TestingPlatform\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T09:42:54.131Z",
+              "WhenOpened": "2025-11-04T08:45:53.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Student.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T11:00:13.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "TestingPlatform\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:06:03.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DirectionDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\DirectionDto.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Application\\Dtos\\DirectionDto.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\DirectionDto.cs",
-              "RelativeToolTip": "TestingPlatform.Application\\Dtos\\DirectionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T09:42:06.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GroupDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\GroupDto.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Application\\Dtos\\GroupDto.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Dtos\\GroupDto.cs",
-              "RelativeToolTip": "TestingPlatform.Application\\Dtos\\GroupDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T09:41:00.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:40:37.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\AppDbContext.cs",
-              "RelativeToolTip": "TestingPlatform.Infrastructure\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T09:54:08.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TestingPlatform.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj",
-              "RelativeDocumentMoniker": "TestingPlatform.Application\\TestingPlatform.Application.csproj",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj",
-              "RelativeToolTip": "TestingPlatform.Application\\TestingPlatform.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T07:22:42.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "TestingPlatform.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\TestingPlatform.Domain.csproj",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\TestingPlatform.Domain.csproj",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\TestingPlatform.Domain.csproj",
-              "RelativeToolTip": "TestingPlatform.Domain\\TestingPlatform.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T07:31:53.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:38:15.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TestsConrollers.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\TestsConrollers.cs",
-              "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\TestsConrollers.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\TestsConrollers.cs",
-              "RelativeToolTip": "TestingPlatform\\Controllers\\TestsConrollers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:05:42.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Test.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Test.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Test.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:09:34.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TestingPlatform.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\TestingPlatform.csproj",
-              "RelativeDocumentMoniker": "TestingPlatform\\TestingPlatform.csproj",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\TestingPlatform.csproj",
-              "RelativeToolTip": "TestingPlatform\\TestingPlatform.csproj",
-              "ViewState": "AgIAAAEAAAAAAAAAAABBwBYAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T07:28:27.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "TestResult.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\TestResult.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\TestResult.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\TestResult.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\TestResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:09:31.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\User.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:09:30.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "User.Role.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\User.Role.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\User.Role.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\User.Role.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\User.Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:09:28.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Answer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Answer.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Answer.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\Answer.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Answer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T06:58:01.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UserTextAnswer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserTextAnswer.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\UserTextAnswer.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserTextAnswer.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\UserTextAnswer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T10:59:59.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UserSelectedOption.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserSelectedOption.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\UserSelectedOption.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserSelectedOption.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\UserSelectedOption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T11:00:01.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserAttemptAnswer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserAttemptAnswer.cs",
-              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\UserAttemptAnswer.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserAttemptAnswer.cs",
-              "RelativeToolTip": "TestingPlatform.Domain\\Models\\UserAttemptAnswer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T11:00:03.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
               "Title": "Answers.cs",
               "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\Answers.cs",
               "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\Answers.cs",
               "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\Answers.cs",
               "RelativeToolTip": "TestingPlatform\\Controllers\\Answers.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:06:52.691Z",
+              "WhenOpened": "2025-11-04T08:45:10.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Questions.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\Questions.cs",
-              "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\Questions.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\Questions.cs",
-              "RelativeToolTip": "TestingPlatform\\Controllers\\Questions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "TestsConrollers.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\TestsConrollers.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\TestsConrollers.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Controllers\\TestsConrollers.cs",
+              "RelativeToolTip": "TestingPlatform\\Controllers\\TestsConrollers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T11:05:23.54Z",
+              "WhenOpened": "2025-11-04T08:44:48.642Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044005}"
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestProfile.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\TestProfile.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Mappings\\TestProfile.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\TestProfile.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastructure\\Mappings\\TestProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:42:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnswerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\AnswerProfile.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Mappings\\AnswerProfile.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Mappings\\AnswerProfile.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastructure\\Mappings\\AnswerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:41:13.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnswerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Mappings\\AnswerProfile.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Mappings\\AnswerProfile.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Mappings\\AnswerProfile.cs",
+              "RelativeToolTip": "TestingPlatform\\Mappings\\AnswerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:39:48.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestProfile.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Mappings\\TestProfile.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Mappings\\TestProfile.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Mappings\\TestProfile.cs",
+              "RelativeToolTip": "TestingPlatform\\Mappings\\TestProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:39:18.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Responses\\Test\\TestResponse.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Responses\\Test\\TestResponse.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Responses\\Test\\TestResponse.cs",
+              "RelativeToolTip": "TestingPlatform\\Responses\\Test\\TestResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:31:44.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AnswerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Responses\\Answer\\AnswerResponse.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Responses\\Answer\\AnswerResponse.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Responses\\Answer\\AnswerResponse.cs",
+              "RelativeToolTip": "TestingPlatform\\Responses\\Answer\\AnswerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:30:59.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateAnswerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Requests\\Answer\\UpdateAnswerRequest.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Requests\\Answer\\UpdateAnswerRequest.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Requests\\Answer\\UpdateAnswerRequest.cs",
+              "RelativeToolTip": "TestingPlatform\\Requests\\Answer\\UpdateAnswerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:26:29.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateAnswerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Requests\\Answer\\CreateAnswerRequest.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Requests\\Answer\\CreateAnswerRequest.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Requests\\Answer\\CreateAnswerRequest.cs",
+              "RelativeToolTip": "TestingPlatform\\Requests\\Answer\\CreateAnswerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:25:57.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateTestRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Requests\\Test\\UpdateTestRequest.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Requests\\Test\\UpdateTestRequest.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Requests\\Test\\UpdateTestRequest.cs",
+              "RelativeToolTip": "TestingPlatform\\Requests\\Test\\UpdateTestRequest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:22:50.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateTestRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Requests\\Test\\CreateTestRequest.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Requests\\Test\\CreateTestRequest.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform\\Requests\\Test\\CreateTestRequest.cs",
+              "RelativeToolTip": "TestingPlatform\\Requests\\Test\\CreateTestRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:15:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnswerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\AnswerRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\AnswerRepository.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\Repositories\\AnswerRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\AnswerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:09:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAnswerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Interface\\IAnswerRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Application\\Interface\\IAnswerRepository.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\Interface\\IAnswerRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Application\\Interface\\IAnswerRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA3wCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:09:01.302Z",
+              "EditorCaption": ""
             }
           ]
         }

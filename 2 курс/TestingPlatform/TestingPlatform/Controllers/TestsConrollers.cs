@@ -1,4 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
+using TestingPlatform.Application.Dtos;
+using TestingPlatform.Application.Interfaces;
+using TestingPlatform.Requests.Test;
+using TestingPlatform.Responses.Test;
 
 namespace TestingPlatform.Controllers;
 
@@ -6,22 +11,71 @@ namespace TestingPlatform.Controllers;
 [Route("api/[controller]")]
 public class TestsController : ControllerBase
 {
-    [HttpGet]
-    public IActionResult GetAllTests() => Ok("Список тестов");
+    private readonly ITestRepository _testRepository;
+    private readonly IMapper _mapper;
 
-    [HttpGet("{id}")]
-    public IActionResult GetTestById(int id)
+    public TestsController(ITestRepository testRepository, IMapper mapper)
     {
-        if (id == 1) return Ok("Тест 1");
-        return NotFound();
+        _testRepository = testRepository;
+        _mapper = mapper;
+    }
+
+    [HttpGet]
+    public async Task<IActionResult> GetAllTests()
+    {
+        var tests = await _testRepository.GetAllAsync();
+        return Ok(_mapper.Map<IEnumerable<TestResponse>>(tests));
+    }
+
+    [HttpGet("{id:int}")]
+    public async Task<IActionResult> GetTestById(int id)
+    {
+        try
+        {
+            var test = await _testRepository.GetByIdAsync(id);
+            return Ok(_mapper.Map<TestResponse>(test));
+        }
+        catch (Exception ex)
+        {
+            return NotFound(ex.Message);
+        }
     }
 
     [HttpPost]
-    public IActionResult CreateTest() => Created("/api/tests/1", "Создан тест с ID=1");
+    public async Task<IActionResult> CreateTest([FromBody] CreateTestRequest testRequest)
+    {
+        var testId = await _testRepository.CreateAsync(_mapper.Map<TestDto>(testRequest));
+        return StatusCode(StatusCodes.Status201Created, new { Id = testId });
+    }
 
-    [HttpPut("{id}")]
-    public IActionResult UpdateTest(int id) => NoContent();
+    [HttpPut("{id:int}")]
+    public async Task<IActionResult> UpdateTest(int id, [FromBody] UpdateTestRequest testRequest)
+    {
+        try
+        {
+            if (id != testRequest.Id)
+                return BadRequest("ID в пути и в теле запроса не совпадают");
 
-    [HttpDelete("{id}")]
-    public IActionResult DeleteTest(int id) => NoContent();
+            await _testRepository.UpdateAsync(_mapper.Map<TestDto>(testRequest));
+            return NoContent();
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
+
+    [HttpDelete("{id:int}")]
+    public async Task<IActionResult> DeleteTest(int id)
+    {
+        try
+        {
+            await _testRepository.DeleteAsync(id);
+            return NoContent();
+        }
+        catch (Exception ex)
+        {
+            return NotFound(ex.Message);
+        }
+    }
 }

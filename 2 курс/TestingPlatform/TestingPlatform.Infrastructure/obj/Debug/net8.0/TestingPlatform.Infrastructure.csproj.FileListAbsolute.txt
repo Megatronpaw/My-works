@@ -15,3 +15,5 @@ C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\ob
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\ref\TestingPlatform.Infrastructure.dll
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Infrastructure.runtimeconfig.json
 C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.genruntimeconfig.cache
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Application.dll
+C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Application.pdb

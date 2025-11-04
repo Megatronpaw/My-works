@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="C:\Users\илья\source\repos\TestingPlatform\TestingPlatform.Domain\TestingPlatform.Domain.csproj" />
+	</ItemGroup>
+
 </Project>
