@@ -11,17 +11,23 @@
   },
   {
     "ContainingType": "TestingPlatform.Controllers.AnswerController",
-    "Method": "CreateAnswers",
+    "Method": "CreateAnswer",
     "RelativePath": "api/Answer",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "answerRequest",
+        "Type": "TestingPlatform.Requests.Answer.CreateAnswerRequest",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "TestingPlatform.Controllers.AnswerController",
-    "Method": "GetAnswersById",
+    "Method": "GetAnswerById",
     "RelativePath": "api/Answer/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -37,9 +43,30 @@
   },
   {
     "ContainingType": "TestingPlatform.Controllers.AnswerController",
-    "Method": "UpdateAnswers",
+    "Method": "UpdateAnswer",
     "RelativePath": "api/Answer/{id}",
     "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "answerRequest",
+        "Type": "TestingPlatform.Requests.Answer.UpdateAnswerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestingPlatform.Controllers.AnswerController",
+    "Method": "DeleteAnswer",
+    "RelativePath": "api/Answer/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -52,9 +79,72 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TestingPlatform.Controllers.AnswerController",
-    "Method": "DeleteAnswers",
-    "RelativePath": "api/Answer/{id}",
+    "ContainingType": "practice.Controllers.GroupsController",
+    "Method": "GetAllGroups",
+    "RelativePath": "api/Groups",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "practice.Controllers.GroupsController",
+    "Method": "CreateGroup",
+    "RelativePath": "api/Groups",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "group",
+        "Type": "CreateGroupRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "practice.Controllers.GroupsController",
+    "Method": "GetGroupById",
+    "RelativePath": "api/Groups/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "practice.Controllers.GroupsController",
+    "Method": "UpdateGroup",
+    "RelativePath": "api/Groups/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "group",
+        "Type": "UpdateGroupRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "practice.Controllers.GroupsController",
+    "Method": "DeleteGroup",
+    "RelativePath": "api/Groups/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -136,8 +226,8 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TestingPlatform.Controllers.StudentsController",
-    "Method": "GetAllStudents",
+    "ContainingType": "StudentsController",
+    "Method": "GetStudents",
     "RelativePath": "api/Students",
     "HttpMethod": "GET",
     "IsController": true,
@@ -146,7 +236,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TestingPlatform.Controllers.StudentsController",
+    "ContainingType": "StudentsController",
     "Method": "CreateStudent",
     "RelativePath": "api/Students",
     "HttpMethod": "POST",
@@ -155,14 +245,30 @@
     "Parameters": [
       {
         "Name": "student",
-        "Type": "Student",
+        "Type": "TestingPlatform.Requests.Student.CreateStudentRequest",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TestingPlatform.Controllers.StudentsController",
+    "ContainingType": "StudentsController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/Students",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "TestingPlatform.Requests.Student.UpdateStudentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentsController",
     "Method": "GetStudentById",
     "RelativePath": "api/Students/{id}",
     "HttpMethod": "GET",
@@ -178,28 +284,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TestingPlatform.Controllers.StudentsController",
-    "Method": "UpdateStudent",
-    "RelativePath": "api/Students/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "student",
-        "Type": "Student",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "TestingPlatform.Controllers.StudentsController",
+    "ContainingType": "StudentsController",
     "Method": "DeleteStudent",
     "RelativePath": "api/Students/{id}",
     "HttpMethod": "DELETE",
@@ -221,7 +306,23 @@
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "isPublic",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "groupIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "studentIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -231,7 +332,13 @@
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "testRequest",
+        "Type": "TestingPlatform.Requests.Test.CreateTestRequest",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -262,6 +369,11 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      },
+      {
+        "Name": "testRequest",
+        "Type": "TestingPlatform.Requests.Test.UpdateTestRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -278,6 +390,94 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestingPlatform.Controllers.TestsController",
+    "Method": "GetAllTestsForStudent",
+    "RelativePath": "api/Tests/for-student/{studentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestingPlatform.Controllers.TestsController",
+    "Method": "GetTopRecentTests",
+    "RelativePath": "api/Tests/recent/{count}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestingPlatform.Controllers.TestsController",
+    "Method": "GetTestCountByType",
+    "RelativePath": "api/Tests/stats/count-by-type",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestingPlatform.Controllers.TestsController",
+    "Method": "GetCourseStats",
+    "RelativePath": "api/Tests/stats/course-stats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestingPlatform.Controllers.TestsController",
+    "Method": "GetDirectionAverages",
+    "RelativePath": "api/Tests/stats/direction-averages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestingPlatform.Controllers.TestsController",
+    "Method": "GetTestTimelineByPublic",
+    "RelativePath": "api/Tests/stats/timeline-by-public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestingPlatform.Controllers.TestsController",
+    "Method": "GetTopGroupsByTestCount",
+    "RelativePath": "api/Tests/stats/top-groups/{top}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "top",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

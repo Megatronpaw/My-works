@@ -8,9 +8,9 @@ public class Test
     public string Description { get; set; }
     public bool IsRepeatable { get; set; } = false;
     public TestType Type { get; set; }
-    public DateTimeOffset CreatedAt { get; set; } = DateTimeOffset.UtcNow;
-    public DateTimeOffset PublishedAt { get; set; }
-    public DateTimeOffset Deadline { get; set; }
+    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+    public DateTime PublishedAt { get; set; }
+    public DateTime Deadline { get; set; }
     public int? DurationMinutes { get; set; }
     public bool IsPublic { get; set; } = false;
     public int? PassingScore { get; set; }

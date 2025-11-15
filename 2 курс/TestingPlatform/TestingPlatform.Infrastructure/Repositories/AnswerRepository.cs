@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using TestingPlatform.Application.Dtos;
 using TestingPlatform.Application.Interfaces;
 using TestingPlatform.Infrastructure;
+using TestingPlatform.Infrastructure.Exceptions;
 using TestingPlatform.Models;
 
 namespace TestingPlatform.Infrastructure.Repositories;
@@ -34,7 +35,7 @@ public class AnswerRepository : IAnswerRepository
 
         if (answer == null)
         {
-            throw new Exception("Ответ не найден.");
+            throw new EntityNotFoundException("Ответ", id);
         }
 
         return _mapper.Map<AnswerDto>(answer);
@@ -49,7 +50,7 @@ public class AnswerRepository : IAnswerRepository
             .AnyAsync(q => q.Id == answerDto.QuestionId);
         if (!questionExists)
         {
-            throw new Exception("Вопрос с указанным ID не найден.");
+            throw new EntityNotFoundException("Вопрос", answerDto.QuestionId);
         }
 
         await _context.Answers.AddAsync(answer);
@@ -59,12 +60,11 @@ public class AnswerRepository : IAnswerRepository
 
     public async Task UpdateAsync(AnswerDto answerDto)
     {
-        var answer = await _context.Answers
-            .FirstOrDefaultAsync(answer => answer.Id == answerDto.Id);
+        var answer = await _context.Answers.FirstOrDefaultAsync(answer => answer.Id == answerDto.Id);
 
         if (answer == null)
         {
-            throw new Exception("Ответ не найден.");
+            throw new EntityNotFoundException("Ответ", answerDto.Id);
         }
 
         // Проверяем существование вопроса
@@ -72,10 +72,9 @@ public class AnswerRepository : IAnswerRepository
             .AnyAsync(q => q.Id == answerDto.QuestionId);
         if (!questionExists)
         {
-            throw new Exception("Вопрос с указанным ID не найден.");
+            throw new EntityNotFoundException("Вопрос", answerDto.QuestionId);
         }
 
-        // Обновляем свойства
         answer.Text = answerDto.Text;
         answer.IsCorrect = answerDto.IsCorrect;
         answer.QuestionId = answerDto.QuestionId;
@@ -85,12 +84,11 @@ public class AnswerRepository : IAnswerRepository
 
     public async Task DeleteAsync(int id)
     {
-        var answer = await _context.Answers
-            .FirstOrDefaultAsync(answer => answer.Id == id);
+        var answer = await _context.Answers.FirstOrDefaultAsync(answer => answer.Id == id);
 
         if (answer == null)
         {
-            throw new Exception("Ответ не найден.");
+            throw new EntityNotFoundException("Ответ", id);
         }
 
         _context.Answers.Remove(answer);

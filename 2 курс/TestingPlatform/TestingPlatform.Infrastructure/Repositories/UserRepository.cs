@@ -1,50 +1,89 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
+using TestingPlatform.Application.Dtos;
 using TestingPlatform.Application.Interfaces;
+using TestingPlatform.Infrastructure;
+using TestingPlatform.Infrastructure.Exceptions;
 using TestingPlatform.Models;
 
 namespace TestingPlatform.Infrastructure.Repositories;
 
-public class UserRepository(AppDbContext appDbContext) : IUserRepository
+public class UserRepository : IUserRepository
 {
-    public List<User> GetAllAsync()
+    private readonly AppDbContext _context;
+    private readonly IMapper _mapper;
+
+    public UserRepository(AppDbContext context, IMapper mapper)
     {
-        var users = appDbContext.Users.AsNoTracking().ToList();
-        return users;
+        _context = context;
+        _mapper = mapper;
     }
 
-    public User GetByIdAsync(int id)
+    public async Task<IEnumerable<UserDto>> GetAllAsync()
     {
-        var user = appDbContext.Users
+        var users = await _context.Users.AsNoTracking().ToListAsync();
+        return _mapper.Map<IEnumerable<UserDto>>(users);
+    }
+
+    public async Task<UserDto> GetByIdAsync(int id)
+    {
+        var user = await _context.Users
             .AsNoTracking()
-            .FirstOrDefault(u => u.Id == id);
+            .FirstOrDefaultAsync(user => user.Id == id);
 
-        if (user is null)
-            throw new Exception("Пользователь не найден.");
+        if (user == null)
+        {
+            throw new EntityNotFoundException("Пользователь", id);
+        }
 
-        return user;
+        return _mapper.Map<UserDto>(user);
     }
 
-    public int CreateAsync(User user)
+    public async Task<int> CreateAsync(UserDto userDto)
     {
-        appDbContext.Users.Add(user);
-        appDbContext.SaveChanges();
+        var user = _mapper.Map<User>(userDto);
+
+        user.FirstName = userDto.FirstName;
+        user.LastName = userDto.LastName;
+        user.MiddleName = userDto.MiddleName;
+        user.PasswordHash = userDto.Password;
+
+        await _context.AddAsync(user);
+        await _context.SaveChangesAsync();
 
         return user.Id;
     }
 
-    public void UpdateAsync(User user)
+    public async Task UpdateAsync(UserDto userDto)
     {
-        appDbContext.SaveChanges();
+        var user = await _context.Users.FirstOrDefaultAsync(user => user.Id == userDto.Id);
+
+        if (user == null)
+        {
+            throw new EntityNotFoundException("Пользователь", userDto.Id);
+        }
+
+        if (_context.Users.Any(u => u.Login == userDto.Login && u.Id != userDto.Id))
+            throw new ArgumentException($"Пользователь с логином {userDto.Login} уже существует.");
+
+        user.FirstName = userDto.FirstName;
+        user.LastName = userDto.LastName;
+        user.MiddleName = userDto.MiddleName;
+        user.Role = userDto.Role;
+
+        await _context.SaveChangesAsync();
     }
 
-    public void DeleteAsync(int id)
+    public async Task DeleteAsync(int id)
     {
-        var user = appDbContext.Users.FirstOrDefault(u => u.Id == id);
-        if (user is null)
-            throw new Exception("Пользователь не найден.");
+        var user = await _context.Users.FirstOrDefaultAsync(user => user.Id == id);
 
-        appDbContext.Users.Remove(user);
-        appDbContext.SaveChanges();
+        if (user == null)
+        {
+            throw new EntityNotFoundException("Пользователь", id);
+        }
+
+        _context.Users.Remove(user);
+        await _context.SaveChangesAsync();
     }
 }
-
