@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
+using System;
 using TestingPlatform.Application.Dtos;
 using TestingPlatform.Application.Interfaces;
 using TestingPlatform.Infrastructure;
@@ -46,7 +47,7 @@ public class UserRepository : IUserRepository
         user.FirstName = userDto.FirstName;
         user.LastName = userDto.LastName;
         user.MiddleName = userDto.MiddleName;
-        user.PasswordHash = userDto.Password;
+        user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(userDto.Password);
 
         await _context.AddAsync(user);
         await _context.SaveChangesAsync();

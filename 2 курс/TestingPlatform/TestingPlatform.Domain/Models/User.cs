@@ -1,4 +1,5 @@
 ﻿using System.Text.Json.Serialization;
+using TestingPlatform.Domain.Models;
 using TestingPlatform.Enums;
 
 namespace TestingPlatform.Models;
@@ -13,6 +14,8 @@ public class User
     public string LastName { get; set; }
     public UserRole Role { get; set; }
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+    public List<RefreshToken> RefreshTokens { get; set; }
+
 
     [JsonIgnore]
     public Student? Student { get; set; }

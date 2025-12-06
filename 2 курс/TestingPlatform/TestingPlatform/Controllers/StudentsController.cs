@@ -1,12 +1,14 @@
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using TestingPlatform.Requests.Student;
-using TestingPlatform.Responses.Student;
 using TestingPlatform.Application.Dtos;
 using TestingPlatform.Application.Interfaces;
 using TestingPlatform.Enums;
+using TestingPlatform.Requests.Student;
+using TestingPlatform.Responses.Student;
 
 [ApiController]
+[Authorize]
 [Route("api/[controller]")]
 public class StudentsController(IStudentRepository studentRepository, IUserRepository userRepository, IMapper mapper) : ControllerBase
 {

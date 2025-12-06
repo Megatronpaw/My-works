@@ -191,6 +191,32 @@
     ]
   },
   {
+    "ContainingType": "TestingPlatform.Controllers.AuthController",
+    "Method": "Authorize",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "auth",
+        "Type": "TestingPlatform.Requests.Auth.AuthRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
     "ContainingType": "practice.Controllers.GroupsController",
     "Method": "GetAllGroups",
     "RelativePath": "api/Groups",

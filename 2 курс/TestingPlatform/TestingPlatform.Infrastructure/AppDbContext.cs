@@ -1,10 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TestingPlatform.Domain.Models;
 using TestingPlatform.Models;
 
 namespace TestingPlatform.Infrastructure;
 
 public class AppDbContext : DbContext
 {
+    public DbSet<RefreshToken> RefreshTokens => Set<RefreshToken>();
     public DbSet<User> Users => Set<User>();
     public DbSet<Student> Students => Set<Student>();
     public DbSet<Project> Projects => Set<Project>();
@@ -20,10 +22,19 @@ public class AppDbContext : DbContext
     public DbSet<UserTextAnswer> UserTextAnswers => Set<UserTextAnswer>();
     public DbSet<TestResult> TestResults => Set<TestResult>();
 
+
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<RefreshToken>()
+   .HasIndex(rt => rt.TokenHash);
+
+        modelBuilder.Entity<RefreshToken>()
+           .HasOne(rt => rt.User)
+           .WithMany(u => u.RefreshTokens)
+           .HasForeignKey(rt => rt.UserId);
+
         modelBuilder.Entity<User>(e =>
         {
             e.HasKey(x => x.Id);
@@ -172,6 +183,7 @@ public class AppDbContext : DbContext
                 j => j.HasOne<Student>().WithMany().HasForeignKey("StudentId")
             );
     }
+
 }
 
 
