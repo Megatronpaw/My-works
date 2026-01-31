@@ -4917,18 +4917,18 @@
     },
     "TestingPlatform.Application/1.0.0": {
       "type": "project",
-      "path": "../TestingPlatform.Application/TestingPlatform.Application.csproj",
-      "msbuildProject": "../TestingPlatform.Application/TestingPlatform.Application.csproj"
+      "path": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj",
+      "msbuildProject": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj"
     },
     "TestingPlatform.Domain/1.0.0": {
       "type": "project",
-      "path": "../TestingPlatform.Domain/TestingPlatform.Domain.csproj",
-      "msbuildProject": "../TestingPlatform.Domain/TestingPlatform.Domain.csproj"
+      "path": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\TestingPlatform.Domain.csproj",
+      "msbuildProject": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\TestingPlatform.Domain.csproj"
     },
     "TestingPlatform.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../TestingPlatform.Infrastructure/TestingPlatform.Infrastructure.csproj",
-      "msbuildProject": "../TestingPlatform.Infrastructure/TestingPlatform.Infrastructure.csproj"
+      "path": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
+      "msbuildProject": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4951,11 +4951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform\\TestingPlatform.csproj",
+      "projectUniqueName": "D:\\Файлы Илья\\Код работы\\2 курс\\TestingPlatform\\TestingPlatform\\TestingPlatform.csproj",
       "projectName": "TestingPlatform",
-      "projectPath": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform\\TestingPlatform.csproj",
+      "projectPath": "D:\\Файлы Илья\\Код работы\\2 курс\\TestingPlatform\\TestingPlatform\\TestingPlatform.csproj",
       "packagesPath": "C:\\Users\\илья\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform\\obj\\",
+      "outputPath": "D:\\Файлы Илья\\Код работы\\2 курс\\TestingPlatform\\TestingPlatform\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5054,7 +5054,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

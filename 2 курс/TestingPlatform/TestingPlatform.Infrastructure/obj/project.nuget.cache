@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gPIsTfAwTt0=",
+  "dgSpecHash": "m4to8v9Z5hc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
+  "projectFilePath": "D:\\Файлы Илья\\Код работы\\2 курс\\TestingPlatform\\TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\илья\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\илья\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

@@ -1,78 +1,9 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj": {}
+    "D:\\Файлы Илья\\Код работы\\2 курс\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj",
-        "projectName": "TestingPlatform.Application",
-        "projectPath": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj",
-        "packagesPath": "C:\\Users\\илья\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Application\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\илья\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\TestingPlatform.Domain.csproj": {
-                "projectPath": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\TestingPlatform.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\TestingPlatform.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -135,6 +66,75 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Файлы Илья\\Код работы\\2 курс\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Файлы Илья\\Код работы\\2 курс\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj",
+        "projectName": "TestingPlatform.Application",
+        "projectPath": "D:\\Файлы Илья\\Код работы\\2 курс\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj",
+        "packagesPath": "C:\\Users\\илья\\.nuget\\packages\\",
+        "outputPath": "D:\\Файлы Илья\\Код работы\\2 курс\\TestingPlatform\\TestingPlatform.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\илья\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\TestingPlatform.Domain.csproj": {
+                "projectPath": "C:\\Users\\илья\\source\\repos\\TestingPlatform\\TestingPlatform.Domain\\TestingPlatform.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
