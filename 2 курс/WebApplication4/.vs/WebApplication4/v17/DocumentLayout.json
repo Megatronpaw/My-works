@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\infrastructure\\reports\\reportqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\infrastructure\\reports\\reportqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studenttestresults\\studenttestresultsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studenttestresults\\studenttestresultsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\application\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\application\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\application\\reports\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\application\\reports\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studenttestresults\\studenttestresultsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studenttestresults\\studenttestresultsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studentrating\\studentratingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studentrating\\studentratingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studentrating\\studentratingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studentrating\\studentratingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studentpassratesummary\\studentpassratesummaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studentpassratesummary\\studentpassratesummaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studentpassratesummary\\studentpassratesummaryfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studentpassratesummary\\studentpassratesummaryfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studentpassrate\\studentpassrateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studentpassrate\\studentpassrateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studentpassrate\\studentpassratefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studentpassrate\\studentpassratefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studentmonthlyprogress\\studentmonthlyprogressitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studentmonthlyprogress\\studentmonthlyprogressitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\studentmonthlyprogress\\studentmonthlyprogressfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\studentmonthlyprogress\\studentmonthlyprogressfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\grouptrend\\grouptrenditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\grouptrend\\grouptrenditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\grouptrend\\grouptrendfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\grouptrend\\grouptrendfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\groupleadersandlaggards\\groupleadersandlaggardsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\groupleadersandlaggards\\groupleadersandlaggardsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\groupleadersandlaggards\\groupleadersandlaggardsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\groupleadersandlaggards\\groupleadersandlaggardsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\dayofweekactivity\\dayofweekactivityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\dayofweekactivity\\dayofweekactivityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\webapplication4\\webapplication4\\reports\\dayofweekactivity\\dayofweekactivityfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A805D65-091F-459F-88F1-EB5C753F9463}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\reports\\dayofweekactivity\\dayofweekactivityfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:47:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportQueries.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Infrastructure\\Reports\\ReportQueries.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Infrastructure\\Reports\\ReportQueries.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Infrastructure\\Reports\\ReportQueries.cs",
+              "RelativeToolTip": "WebApplication4\\Infrastructure\\Reports\\ReportQueries.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:45:37.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Application\\Reports\\IReportService.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Application\\Reports\\IReportService.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Application\\Reports\\IReportService.cs",
+              "RelativeToolTip": "WebApplication4\\Application\\Reports\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:42:56.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Application\\Reports\\ReportService.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Application\\Reports\\ReportService.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Application\\Reports\\ReportService.cs",
+              "RelativeToolTip": "WebApplication4\\Application\\Reports\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:40:47.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication4\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\appsettings.json",
+              "RelativeToolTip": "WebApplication4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T09:38:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentTestResultsFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentTestResults\\StudentTestResultsFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentTestResults\\StudentTestResultsFilter.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentTestResults\\StudentTestResultsFilter.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentTestResults\\StudentTestResultsFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:36:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:42:21.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRatingItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentRating\\StudentRatingItem.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentRating\\StudentRatingItem.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentRating\\StudentRatingItem.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentRating\\StudentRatingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:34:30.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRatingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentRating\\StudentRatingFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentRating\\StudentRatingFilter.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentRating\\StudentRatingFilter.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentRating\\StudentRatingFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:34:15.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentPassRateSummaryItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentPassRateSummary\\StudentPassRateSummaryItem.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentPassRateSummary\\StudentPassRateSummaryItem.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentPassRateSummary\\StudentPassRateSummaryItem.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentPassRateSummary\\StudentPassRateSummaryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:33:48.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentTestResultsItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentTestResults\\StudentTestResultsItem.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentTestResults\\StudentTestResultsItem.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentTestResults\\StudentTestResultsItem.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentTestResults\\StudentTestResultsItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:35:14.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentPassRateSummaryFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentPassRateSummary\\StudentPassRateSummaryFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentPassRateSummary\\StudentPassRateSummaryFilter.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentPassRateSummary\\StudentPassRateSummaryFilter.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentPassRateSummary\\StudentPassRateSummaryFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:33:25.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentPassRateItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentPassRate\\StudentPassRateItem.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentPassRate\\StudentPassRateItem.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentPassRate\\StudentPassRateItem.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentPassRate\\StudentPassRateItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:33:09.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentPassRateFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentPassRate\\StudentPassRateFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentPassRate\\StudentPassRateFilter.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentPassRate\\StudentPassRateFilter.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentPassRate\\StudentPassRateFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:32:46.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentMonthlyProgressItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentMonthlyProgress\\StudentMonthlyProgressItem.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentMonthlyProgress\\StudentMonthlyProgressItem.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentMonthlyProgress\\StudentMonthlyProgressItem.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentMonthlyProgress\\StudentMonthlyProgressItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:32:20.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentMonthlyProgressFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentMonthlyProgress\\StudentMonthlyProgressFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\StudentMonthlyProgress\\StudentMonthlyProgressFilter.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\StudentMonthlyProgress\\StudentMonthlyProgressFilter.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\StudentMonthlyProgress\\StudentMonthlyProgressFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:32:03.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GroupTrendItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\GroupTrend\\GroupTrendItem.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\GroupTrend\\GroupTrendItem.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\GroupTrend\\GroupTrendItem.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\GroupTrend\\GroupTrendItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:31:34.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GroupTrendFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\GroupTrend\\GroupTrendFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\GroupTrend\\GroupTrendFilter.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\GroupTrend\\GroupTrendFilter.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\GroupTrend\\GroupTrendFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:31:17.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GroupLeadersAndLaggardsItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\GroupLeadersAndLaggards\\GroupLeadersAndLaggardsItem.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\GroupLeadersAndLaggards\\GroupLeadersAndLaggardsItem.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\GroupLeadersAndLaggards\\GroupLeadersAndLaggardsItem.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\GroupLeadersAndLaggards\\GroupLeadersAndLaggardsItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:30:54.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GroupLeadersAndLaggardsFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\GroupLeadersAndLaggards\\GroupLeadersAndLaggardsFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\GroupLeadersAndLaggards\\GroupLeadersAndLaggardsFilter.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\GroupLeadersAndLaggards\\GroupLeadersAndLaggardsFilter.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\GroupLeadersAndLaggards\\GroupLeadersAndLaggardsFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:30:35.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DayOfWeekActivityItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\DayOfWeekActivity\\DayOfWeekActivityItem.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\DayOfWeekActivity\\DayOfWeekActivityItem.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\DayOfWeekActivity\\DayOfWeekActivityItem.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\DayOfWeekActivity\\DayOfWeekActivityItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:29:56.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DayOfWeekActivityFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\DayOfWeekActivity\\DayOfWeekActivityFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Reports\\DayOfWeekActivity\\DayOfWeekActivityFilter.cs",
+              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\WebApplication4\\WebApplication4\\Reports\\DayOfWeekActivity\\DayOfWeekActivityFilter.cs",
+              "RelativeToolTip": "WebApplication4\\Reports\\DayOfWeekActivity\\DayOfWeekActivityFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:29:35.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
